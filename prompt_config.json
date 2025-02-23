@@ -1,0 +1,11 @@
+{
+  "system": "- Ubuntu",
+  "wd": "/home/michael/gitrepos/pdf-tools",
+  "files": [
+    "extract_pages.py"
+  ],
+  "prompts": {
+    "JustChanges": "Just give the changes. Do not copy the entire source code.",
+    "FixTypos": "- You are a helpful assistant that corrects text formatting and typos in extracted text.\n- Please correct the following text for line breaks and typos, and improve readability while maintaining the original meaning."
+  }
+}
